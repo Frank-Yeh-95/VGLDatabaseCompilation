@@ -1,0 +1,120 @@
+>Cav1_6JPA_1|Chain/1267-1290 A|Voltage-dependent L-type calcium channel subunit alpha-1S|Oryctolagus cuniculus (9986)
+----LP---YVALLIVMLFFIYAVIGMQMFG---
+>Cav1s_Homo_sapiens/1267-1290
+----LP---YVALLIVMLFFIYAVIGMQMFG---
+>Cav1_Gallus_gallus/1268-1291
+----LP---YVALLIVMLFFIYAVIGMQMFG---
+>Cav1_Drosophila_melanogaster_isoD/1996-2019
+----LP---YVALLIVLLFFIYAVVGMQVFG---
+>Cav1_Caenorhabditis_elegans/1246-1269
+----LP---YVALLIVLLFFIYAVIGMQFFG---
+>Cav1_Nematostella_vectensis/1307-1330
+----LP---YVGLLIIMTFFIYAVVGMQMFG---
+>Cav1_Helobdella_robusta/1162-1185
+----LP---YVILLIAMLFFIYAIIGMQIFG---
+>Cav1_Salpingoeca_rosetta/1351-1374
+----LP---YVAALIMMLFFVYAVIGMQLFA---
+>Cav1_Callorhinchus_milii_isoX1/1270-1293
+----LP---YVALLIVMLFFIYAVIGMQVFG---
+>Cav1_Petromyzon_marinus_isoX9/1367-1390
+----LP---YVALLIVMMFFIYAVIGMQIFG---
+>Cav1_Ciona_intestinalis_isoX1/1412-1435
+----LP---YVALLIVLLFFIYAVIGMQVFG---
+>Cav1_Branchiostoma_floridae/1418-1441
+----LP---YVALLILMLFFIYAVVGMQMFG---
+>Cav1_Priapulus_caudatus/1295-1318
+----LP---YVALLIVMLFFIYAVVGMQVFG---
+>Cav1_Schistosoma_mansoni/1261-1284
+----LP---YVALLIAMIFFIYAVIGMQLFG---
+>Cav1_Lottia_gigantea/1274-1297
+----LP---YVALLIVMLFFIYAVIGMQIFG---
+>Cav1_Mus_musculus_iso2/1267-1290
+----LP---YVALLIVMLFFIYAVIGMQMFG---
+>Cav1_Pogona_vitticeps/1272-1295
+----LP---HVALLIVMLFFVYAVIGMQMFG---
+>Cav1_Alligator_mississippiensis_isoX2/1268-1291
+----LP---YVALLIVMLFFIYAVIGMQMFG---
+>Cav1_Strongylocentrotus_purpuratus_NP_001118235.1:117-1644/1179-1202 voltage dependent calcium channel L-type [Strongylocentrotus purpuratus]
+----LP---YVALLIVMLFFVYAVIGMQMFG---
+>Cav1_Aplysia_californica_AVD53847.1:36-1641/1302-1325 Cav2 calcium channel alpha subunit [Aplysia californica]
+----LP---YVCLLILMLFFIFAIIGMQVFG---
+>Cav1_Hydra_vulgaris_XP_047123701.1:43-1554/1192-1215 muscle calcium channel subunit alpha-1 [Hydra vulgaris]
+----LP---YVGLLIVLLFFIYAVIGMQVFG---
+>Cav1_Amphimedon_queenslandica_XP_019855146.1/1269-1292 PREDICTED: voltage-dependent L-type calcium channel subunit alpha-1D-like isoform X2 [Amphimedon queenslandica]
+----FP---WVGVLLLAVLFTYAIVGMQVFG---
+>QOY24596.1/1240-1266 CaV2 voltage-gated calcium channel alpha-1 subunit [Mnemiopsis leidyi]
+L-KSLP---HVMFLVMLTFYIYAIIGMQIFG---
+>Homo_Sapiens_NP_075461.2/1699-1720 voltage-dependent P/Q-type calcium channel subunit alpha-1A isoform 2 [Homo sapiens]
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>Strongylocentrotus_Purpuratus_XP_030853655.1/1383-1404 voltage-dependent calcium channel type A subunit alpha-1 isoform X6 [Strongylocentrotus purpuratus]
+---------WVCLLIWMLFFIYAIIGMQIFG---
+>Drosophilia_Melanogaster_NP_001014732.1/1225-1246 cacophony, isoform J [Drosophila melanogaster]
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>Aplysia_Californica_AVD53847.1/1339-1360 Cav2 calcium channel alpha subunit [Aplysia californica]
+---------YVCLLILMLFFIFAIIGMQVFG---
+>Hydra_Vulgaris_XP_047138456.1:314-1496/889-910 probable voltage-dependent N-type calcium channel subunit alpha-1B isoform X1 [Hydra vulgaris]
+---------YVGMLIFLLFFVYAIIGMQVFS---
+>Nematostella_Vectensis_XP_048587791.1/1277-1298 voltage-dependent P/Q-type calcium channel subunit alpha-1A isoform X3 [Nematostella vectensis]
+---------YVGMLIGLLFFIYAVIGMQLFG---
+>Callorhinchus_Milli_XP_042200570.1/1476-1497 LOW QUALITY PROTEIN: voltage-dependent P/Q-type calcium channel subunit alpha-1A-like [Callorhinchus milii]
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>Petromyzon_Marinus_XP_032829228.1/1708-1729 LOW QUALITY PROTEIN: voltage-dependent P/Q-type calcium channel subunit alpha-1A [Petromyzon marinus]
+---------YVCLLIAMLFFIYAIVGMQVFG---
+>Ciona_Intestinalis_XP_026693133.1/1677-1698 voltage-dependent N-type calcium channel subunit alpha-1B-like [Ciona intestinalis]
+---------YVCLLIAMLFFIYSIIGMQLFG---
+>Branchiostoma_Floridae_XP_035684367.1/1543-1564 voltage-dependent P/Q-type calcium channel subunit alpha-1A-like isoform X14 [Branchiostoma floridae]
+---------YVVLLIAMLLFIYAIVGMQVFG---
+>Schistosoma_Mansoni_AAK84311.1/1321-1342 high voltage-activated calcium channel Cav2A [Schistosoma mansoni]
+---------YVCLLITMLFFIYAVVGMQIFG---
+>Mus_Musculus_XP_006530659.1/1737-1758 voltage-dependent P/Q-type calcium channel subunit alpha-1A isoform X10 [Mus musculus]
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>Pogona_Vitticeps_XP_020656028.1/1777-1798 LOW QUALITY PROTEIN: voltage-dependent P/Q-type calcium channel subunit alpha-1A [Pogona vitticeps]
+---------XVCLLIAMLFFIYAIIGMQVFG---
+>Alligator_Mississipiensis_XP_059588283.1/1751-1772 voltage-dependent P/Q-type calcium channel subunit alpha-1A isoform X1 [Alligator mississippiensis]
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>Gallus_Gallus_XP_046784616.1/1596-1617 voltage-dependent N-type calcium channel subunit alpha-1B isoform X13 [Gallus gallus]
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>Bolinopsis_Microptera_XP_063686312.1/1245-1266 voltage-dependent R-type calcium channel subunit alpha-1E-like isoform X2 [Bolinopsis microptera]
+---------HVMFLVMLTFYIYAIIGMQIFG---
+>Cav2_struct_8X90_1|Chain/1736-1757 A|Voltage-dependent P/Q-type calcium channel subunit alpha-1A|Homo sapiens (9606)
+---------YVCLLIAMLFFIYAIIGMQVFG---
+>PDB|6kzo|6KZO|A/929-962
+VMQALPQVGNLGLLFMLLFFIFAALGVELFGDLE
+>NP_061496.2/1736-1769 voltage-dependent T-type calcium channel subunit alpha-1G isoform 1 [Homo sapiens]
+VMQALPQVGNLGLLFMLLFFIFAALGVELFGDLE
+>XP_030839905.1/1737-1770 voltage-dependent T-type calcium channel subunit alpha-1I isoform X2 [Strongylocentrotus purpuratus]
+VFQALPQVGNLGLLFFLLFFIFAALGVELFGRLA
+>NP_001259267.1/2620-2653 Ca[2+]-channel protein alpha[[1]] subunit T, isoform F [Drosophila melanogaster]
+VMQALPQVGNLGLLFFLLFFIFAALGVELFGRLE
+>XP_035826040.1/1886-1919 voltage-dependent T-type calcium channel subunit alpha-1G, partial [Aplysia californica]
+VIQALPQVGNLGLLFFLLFFIFAALGVELFGRLE
+>NP_001367691.1/1613-1646 Voltage-dependent T-type calcium channel subunit alpha [Caenorhabditis elegans]
+VGEALPQVGNLGSLFFLLFFIFAALGVELFGKLE
+>XP_065658360.1/1425-1458 voltage-dependent T-type calcium channel subunit alpha-1G isoform X3 [Hydra vulgaris]
+VSKAIPQVGNLSMLFALIFFIFSALGIELFGRLD
+>XP_032231233.2/1895-1928 voltage-dependent T-type calcium channel subunit alpha-1G isoform X1 [Nematostella vectensis]
+LFEALPQVANLGLLFFLLFFIYSCLGIQLFGSLE
+>XP_009014808.1/1901-1934 hypothetical protein HELRODRAFT_170765 [Helobdella robusta]
+VMQALPDAGNLGLLFFLLFFIFAALGVELFGRIE
+>XP_004995501.1/2310-2343 voltage-dependent calcium channel T type alpha 1G subunit domain II [Salpingoeca rosetta]
+VTQSASQVGSLALLLLLLFYISAAIAVELFGRMS
+>XP_042198287.1/1787-1820 LOW QUALITY PROTEIN: voltage-dependent T-type calcium channel subunit alpha-1G [Callorhinchus milii]
+VIQALPQVGNLGLLFMLLFFIFAALGVELFGDLE
+>XP_032832080.1/2190-2223 voltage-dependent T-type calcium channel subunit alpha-1H-like [Petromyzon marinus]
+VMQALPQVGNLGLLFMLLFFIYAALGVELFGNLE
+>XP_018667817.1/1876-1909 voltage-dependent T-type calcium channel subunit alpha-1G isoform X1 [Ciona intestinalis]
+VANALPQVGNLGLLFLLLFFIFAALGVELFGTLS
+>XP_035695929.1/1916-1949 voltage-dependent T-type calcium channel subunit alpha-1I-like isoform X2 [Branchiostoma floridae]
+VMKALPQVGNLGLLFFLLFFIFAALGVELFGKID
+>XP_014676246.1/1125-1124/1-0/1-0/1-0 PREDICTED: voltage-dependent T-type calcium channel subunit alpha-1I-like, partial [Priapulus caudatus]
+----------------------------------
+>XP_009061843.1/1422-1455 hypothetical protein LOTGIDRAFT_220094 [Lottia gigantea]
+VIQALPQVGNLGLLFFLLFFIFAALGVELFGRLE
+>XP_011246988.1/1748-1781 voltage-dependent T-type calcium channel subunit alpha-1G isoform X1 [Mus musculus]
+VMQALPQVGNLGLLFMLLFFIFAALGVELFGDLE
+>XP_020670763.1/1632-1665 voltage-dependent T-type calcium channel subunit alpha-1G [Pogona vitticeps]
+VMQALPQVGNLGLLFMLLFFIFAALGVELFGDLE
+>XP_059588087.1/1699-1732 voltage-dependent T-type calcium channel subunit alpha-1G isoform X6 [Alligator mississippiensis]
+VMQALPQVGNLGLLFMLLFFIFAALGVELFGDLE
+>XP_040505818.1/1750-1783 voltage-dependent T-type calcium channel subunit alpha-1G isoform X1 [Gallus gallus]
+VMQALPQVGNLGLLFMLLFFIFAALGVELFGDLE

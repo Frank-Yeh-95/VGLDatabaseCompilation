@@ -1,0 +1,336 @@
+>hBK_struct_6V38/229-259 |Chains A, B, C, D|Calcium-activated potassium channel subunit alpha-1|Homo sapiens (9606)
+TSNSIKLVNLLSIF--ISTWLTAAGFIHLVENS-
+>BK_Homo_sapiens_X13/338-368 XP_016871702.1: calcium-activated potassium channel subunit alpha-1
+TSNSIKLVNLLSIF--ISTWLTAAGFIHLVENS-
+>BK_Mus_musculus_8/294-324 NP_034740.2: calcium-activated potassium channel subunit alpha-1
+TSNSIKLVNLLSIF--ISTWLTAAGFIHLVENS-
+>BK_Strongylocentrotus_purpuratus/116-146 XP_030835948.1: calcium-activated potassium channel subunit alpha-1-like
+TSNSIKLLNLVTLL--LTLWLGFAGIIHLVENS-
+>BK_Drosophila_melanogaster_U/244-274 NP_001262925.1: slowpoke
+TSSSIRLAQLVSIF--ISVWLTAAGIIHLLENS-
+>BK_Aplysia_californica_X1/218-248 XP_035826261.1: calcium-activated potassium channel slowpoke
+TSTLIRLVQLVVSF--VSLWLTAAGFLHLLENS-
+>BK_Caenorhabditis_elegans/258-288 NP_001024259.1: Calcium-activated potassium channel slo-1
+TSSSIRLTQLVTIF--VAVCLTGAGLVHLLENS-
+>BK_Hydra_vulgaris/204-234 XP_012564283.1: PREDICTED: calcium-activated potassium channel subunit alpha-1-like
+TGSSFEMIGLVGTF--LTVWLTSAGVVHLIENT-
+>BK_Nematostella_vectensis_X1/220-250 XP_032219004.1: calcium-activated potassium channel subunit alpha-1-like
+SSSGSTLAKMLGNL--LALLFAFGGLVHLLENT-
+>BK_Amphimedon_queenslandica/200-230 XP_019857024.1: PREDICTED: LOW QUALITY PROTEIN: calcium-activated potassium channel subunit alpha-1-like
+SEDIVKIAKIVSRF--IGVWLSSSGMIQLLENS-
+>BK_Helobdella_robusta/227-257 XP_009020384.1: hypothetical protein HELRODRAFT_112655
+TSNSIRLCQLVSTL--ISVWFTGAGFVHLVENS-
+>BK_Callorhinchus_milii_X1/241-271 XP_007896678.1: PREDICTED: calcium-activated potassium channel subunit alpha-1
+TSNSIKLVNLISIF--ISTWLTAAGFIHLVENS-
+>BK_Petromyzon_marinus/320-350 XP_032814990.1: calcium-activated potassium channel subunit alpha-1-like
+TSNSIKLVNLLSIF--ISTWLTASGFIHLVENS-
+>BK_Ciona_intestinalis/247-277 XP_026693508.1 LOW QUALITY PROTEIN: calcium-activated potassium channel subunit alpha-1-like
+TSNSIKLVNLVSIF--LSIWLTGAGFIHLVENT-
+>BK_Branchiostoma_floridae/1-13 XP_035669715.1: calcium-activated potassium channel subunit alpha-1-like
+--------------------MTGAGFIHLVENS-
+>BK_Schistosoma_mansoni/269-299 XP_018647290.1: calcium-activated potassium channel
+SASNLRMCQLCTLF--ISIWFAGAGFFNLFENT-
+>BK_Lottia_gigantea/229-259 XP_009048035.1: hypothetical protein LOTGIDRAFT_111687
+TSTMIRLTQVVAYF--ISLWLAAAGFVHLVENS-
+>BK_Pogona_vitticeps/95-125 XP_020651797.1 calcium-activated potassium channel subunit alpha-1
+TSNSIKLVNLCSIF--ISTWLTAAGFIHLVENS-
+>BK_Alligator_mississippiensis_X3/206-236 XP_019352722.1 PREDICTED: calcium-activated potassium channel subunit alpha-1
+TSNSIKLVNLCSIF--ISTWLTAAGFIHLVENS-
+>BK_Gallus_gallus_X22/272-302 XP_015143651.1 calcium-activated potassium channel subunit alpha-1
+TSNSIKLVNLCSIF--ISTWLTAAGFIHLVENS-
+>slo3_Homo_sapiens/218-248 NP_001027006.2 potassium channel subfamily U member 1
+TSNSVKFSKLLSII--LSTWFTAAGFIHLVENS-
+>slo3_Mus_musculus/218-248 NP_032458.3 potassium channel subfamily U member 1
+TSNSVKLSKLLSIV--ISTWFTAAGFLHLVENS-
+>slo3_Pogona_vitticeps_isoX1/218-248 XP_020641777.1 potassium channel subfamily U member 1
+SGTAIKLSKLLAVF--VSTWLTAAGFLHWMENS-
+>slo3_Alligator_mississippiensis/126-156 XP_019347112.1 PREDICTED: potassium channel subfamily U member 1
+TSNSIKLVKLLAVF--LSTWLTSAGFIHLVENS-
+>gslo2_struct_5U70/244-272 |Chain A|Potassium channel subfamily T member 1|Gallus gallus (9031)
+SAMFNQVLILICTLLCLVFTGTC-----GIQHLE
+>slo2_Homo_sapiens_iso1/265-293 NP_065873.2 potassium channel subfamily T member 1
+SAMFNQVLILFCTLLCLVFTGTC-----GIQHLE
+>slo2_Strongylocentrotus_purpuratus/149-177 XP_030853581.1 potassium channel subfamily T member 1 MASSDKARYSKIASYSQSPRRSEPSVRVEFFVDDKSFKERLQLYFIKNQRSSLRIRLFNFTIKLLSCLLY
+SALSQRVMILFSFILCLIFTCAC-----GMHHLE
+>slo2_Drosophila_melanogaster_isoD/285-313 NP_001097259.2 slowpoke 2
+SALSQQLTILSATLLCLVFTSVC-----GIQHFQ
+>slo2_Aplysia_californica/219-247 XP_012937020.1 potassium channel subfamily T member 2
+VTLYQQSWFLIATLGCLIFTTIC-----GIQHIQ
+>slo2_Caenorhabditis_elegans/249-277 NP_001257146.1 Ion_trans_2 domain-containing protein
+SALFRQLLLLFSVLACLIFTGMC-----SIEHLQ
+>slo2_Nematostella_vectensis_isoX1/271-299 XP_032228039.1 potassium channel subfamily T member 1
+SALSQKVLILITTVVCILFTSVC-----GIHHLE
+>slo2_Amphimedon_queenslandica/293-321 XP_019852945.1 PREDICTED: potassium channel subfamily T member 2-like
+HGFRTTAISLATFLLCFMFSCLC-----LIHHFE
+>slo2_Helobdella_robusta/85-113 XP_009016610.1 hypothetical protein HELRODRAFT_111253
+SALSQQLIFLVATISCLVFTSVC-----GIQHLQ
+>slo2_Capsaspora_owczarzaki/258-286 KJE92091.1 hypothetical protein CAOG_003117
+RVLVHRLWLLVISSLCIIFTCTM-----GVNVIE
+>slo2_Callorhinchus_milii_isoX1/218-246 XP_007898501.1 PREDICTED: potassium channel subfamily T member 1
+SAMFNQVLILICTLLCLVFTGTC-----GIQHLE
+>slo2_Petromyzon_marinus_isoX1/447-475 XP_032828853.1 potassium channel subfamily T member 1
+SAMFNQVLILICTLFCLMFTFIC-----GFQHLE
+>slo2_Ciona_intestinalis_isoX1/244-272 XP_026694653.1 potassium channel subfamily T member 2
+SAMFNQVLVLLSTLICLFMTCIC-----GVEHLE
+>slo2_Branchiostoma_floridae_isoX1/245-273 XP_035684961.1 potassium channel subfamily T member 2-like
+SALAQQVIILIATLLCLVFTSIC-----GIQHFE
+>slo2_Priapulus_caudatus/62-90 XP_014668588.1 PREDICTED: potassium channel subfamily T member 1-like
+SALSHQLTLLCATLFCVFFTSIC-----GIEHLQ
+>slo2_Lottia_gigantea/162-190 XP_009050341.1 hypothetical protein LOTGIDRAFT_91366, partial
+SALAQQLLILCATLLCLVFISAC-----GIQHLQ
+>slo2_Mus_musculus_isoX1/246-274 XP_006497940.2 potassium channel subfamily T member 1
+SAMFNQVLILFCTLLCLVFTGTC-----GIQHLE
+>slo2_Pogona_vitticeps_isoX1/264-292 XP_020664849.1 potassium channel subfamily T member 1
+SAMFNQVLILICTLLCLVFTGTC-----GIQHLE
+>slo2_Alligator_mississippiensis_isoX1/259-287 XP_019331175.1 PREDICTED: potassium channel subfamily T member 1
+SAMFNQVLILICTLLCLLFTGTC-----GIQHLE
+>slo2_Gallus_gallus_isoX1/289-317 XP_015134798.1 potassium channel subfamily T member 1
+SAMFNQVLILICTLLCLVFTGTC-----GIQHLE
+>hSK4_struct_6CNO/205-227 |Chains A, B, C, D|Intermediate conductance calcium-activated potassium channel protein 4|Homo sapiens (9606)
+GR--------LLLGLTLGLWLTTAWVLSVAE---
+>SK4_Homo_sapiens/205-227 NP_002241.1 intermediate conductance calcium-activated potassium channel protein 4
+GR--------LLLGLTLGLWLTTAWVLSVAE---
+>SK4_Mus_musculus/203-225 NP_001156982.1 intermediate conductance calcium-activated potassium channel protein 4
+GR--------LLLGLTLGLWLTTAWVLSVAE---
+>SK4_Pogona_vitticeps_isoX1/160-182 XP_020663145.1 intermediate conductance calcium-activated potassium channel protein 4
+GR--------VLLIFTMGLWFIAFWVLSVCE---
+>SK4_Alligator_mississippiensis/151-173 XP_019334954.1 PREDICTED: intermediate conductance calcium-activated potassium channel protein 4
+AA--------LLLALALGAWVLSAWVLAACE---
+>SK2_Homo_sapiens_isoC/589-611 NP_001359162.1 small conductance calcium-activated potassium channel protein 2
+GT--------VLLVFSISLWIIAAWTVRACE---
+>SK2_Strongylocentrotus_purpuratus/140-162 XP_030832948.1 small conductance calcium-activated potassium channel protein 2
+GT--------VLLVVTITLWILASWIMHVCE---
+>SK2_Drosophila_melanogaster_isoS/663-685 NP_001284887.1 small conductance calcium-activated potassium channel
+GT--------VLLVFMVSLWIIASWTLRQCE---
+>SK2_Aplysia_californica/776-798 XP_035829626.1 small conductance calcium-activated potassium channel protein 3-like
+GT--------VLLVFTLTLWIIAGWLVRACE---
+>SK2_Caenorhabditis_elegans/398-420 NP_001293203.1 CaMBD domain-containing protein
+GT--------MLMIFTAFLWIIAGWILRLCE---
+>SK2_Helobdella_robusta/203-225 XP_009011661.1 hypothetical protein HELRODRAFT_119254, partial
+GT--------VLLVFMLSLWMIASWTLRACE---
+>SK2_Callorhinchus_milii/299-321 XP_007895576.1 PREDICTED: LOW QUALITY PROTEIN: small conductance calcium-activated potassium channel protein 2
+GT--------VLLVFSISLWIIAAWTVRACE---
+>SK2_Petromyzon_marinus/562-584 XP_032805199.1 LOW QUALITY PROTEIN: small conductance calcium-activated potassium channel protein 2-like
+GT--------VLLVFSISLWIIAAWTVRACE---
+>SK2_Ciona_intestinalis/865-887 XP_018671843.1 LOW QUALITY PROTEIN: small conductance calcium-activated potassium channel protein 3-like
+GT--------VLLVFSISLWIIAAWTIRACE---
+>SK2_Branchiostoma_floridae/380-402 XP_035667930.1 small conductance calcium-activated potassium channel protein 2-like
+GT--------VLLVFTVTLWIIAAWTTTACE---
+>SK2_Schistosoma_mansoni/1417-1439 XP_018649289.1 calcium-activated potassium channel
+GK--------LLLGFILCLWIVYSWTLRACE---
+>SK2_Lottia_gigantea/293-315 XP_009047871.1 hypothetical protein LOTGIDRAFT_111965
+GT--------ILLVFMLTLWIIASWLLRACE---
+>SK2_Mus_musculus_isoX1/581-603 XP_030106191.1 small conductance calcium-activated potassium channel protein 2
+GT--------VLLVFSISLWIIAAWTVRACE---
+>SK2_Pogona_vitticeps_isoX1/578-600 XP_020635686.1 small conductance calcium-activated potassium channel protein 2
+GT--------VLLVFSISLWIIAAWTVRACE---
+>SK2_Alligator_mississippiensis_isoX1/492-514 XP_006266937.3 PREDICTED: small conductance calcium-activated potassium channel protein 2
+GT--------VLLVFSISLWIIAAWTVRACE---
+>SK2_Gallus_gallus_isoX3/508-530 XP_015136073.2 small conductance calcium-activated potassium channel protein 2
+GT--------VLLVFSISLWIIAAWTVRACE---
+>rEAG1_struct_6PBX/337-368 |Chains A, C, D[auth E], E[auth G]|Potassium voltage-gated channel subfamily H member 1|Rattus norvegicus (10116)
+--GAAVLVLLVCVFGLAAHWMACIWYSIGDYEIF
+>hERG1_struct_5VA2/336-367 |Chain A|Potassium voltage-gated channel subfamily H member 2|Homo sapiens (9606)
+--GAAVLFLLMCTFALIAHWLACIWYAIGNMEQP
+>Kv10.2_Homo_sapiens_iso1/345-376 NP_647479.2 potassium voltage-gated channel subfamily H member 5 isoform 1 [Homo sapiens]
+--GAAVLVLLVCVFGLVAHWLACIWYSIGDYEVI
+>Kv10.2_Strongylocentrotus_purpuratus/304-335 XP_030855353.1 potassium voltage-gated channel subfamily H member 1
+--GLAFLILLMLSFVLVAHWFACIWYTIGREALG
+>Kv10.2_Drosophila_melanogaster_isoB/368-399 NP_001036275.1 ether a go-go, isoform B
+--GAAMLILLLCFYMLVAHWLACIWYSIGRSDAD
+>Kv10.2_Aplysia_californica/259-290 XP_005104472.2 potassium voltage-gated channel subfamily H member 1, partial
+--GAAMLVLLILVFILFAHWFACIWYSIGWAELI
+>Kv10.2_Caenorhabditis_elegans/361-392 NP_503402.3 Uncharacterized protein CELE_F16B3.1
+--GAATLLLLLCAYVIVAHWLACVWFWIGDSEVR
+>Kv10.2_Nematostella_vectensis_isoX1/357-388 XP_032232877.1 potassium voltage-gated channel subfamily H member 1 isoform X1
+--GASTFFLLMLSFCLVAHWMACMFYVIATKYDK
+>Kv10.2_Helobdella_robusta/342-373 XP_009019489.1 hypothetical protein HELRODRAFT_119837, partial
+--GAAVLVLLIVMFALIAHWFACIWFTIGNIEAS
+>Kv10.2_Callorhinchus_milii/345-376 XP_007902076.1 PREDICTED: potassium voltage-gated channel subfamily H member 5
+--GAAVLVLLVCVFGLVAHWLACIWYSIGDYEVI
+>Kv10.2_Petromyzon_marinus_isoX1/355-386 XP_032820082.1 potassium voltage-gated channel subfamily H member 1-like isoform X1
+--GAAVLVLLVCVFGLAAHWLACIWYSIGDYEVI
+>Kv10.2_Ciona_intestinalis/171-202 XP_026694540.1 potassium voltage-gated channel subfamily H member 5
+--GGAMLVLLVCFFGLSGHWLACIWYTIGNSSVS
+>Kv10.2_Branchiostoma_floridae/371-402 XP_035695207.1 potassium voltage-gated channel subfamily H member 1-like
+--GAAVLVLLVCVFALFAHWFACVWYTIGDAELQ
+>Kv10.2_Priapulus_caudatus/351-382 XP_014677839.1 PREDICTED: potassium voltage-gated channel subfamily H member 1-like
+--GAAMLILLVCVFGLVGHWLACIWYYIGVTDAA
+>Kv10.2_Schistosoma_mansoni/349-380 XP_018649958.1 putative voltage-gated potassium channel
+--VSTLLLLMILCFFLLAHWFACAWYAVGIFDIE
+>Kv10.2_Lottia_gigantea/324-355 XP_009063678.1 hypothetical protein LOTGIDRAFT_107737, partial
+--GAAMLILLILVFILFAHWFACIWYSIGSAELR
+>Kv10.2_Mus_musculus/345-376 NP_766393.2 potassium voltage-gated channel subfamily H member 5
+--GAAVLVLLVCVFGLVAHWLACIWYSIGDYEVI
+>Kv10.2_Pogona_vitticeps/345-376 XP_020665464.1 potassium voltage-gated channel subfamily H member 5
+--GAAVLVLLVCVFGLVAHWLACIWYSIGDYEVI
+>Kv10.2_Alligator_mississippiensis/345-376 XP_014454245.1 PREDICTED: potassium voltage-gated channel subfamily H member 5
+--GAAVLVLLVCVFGLVAHWLACIWYSIGDYEVI
+>Kv10.2_Gallus_gallus/345-376 XP_040529709.1 potassium voltage-gated channel subfamily H member 5
+--GAAVLVLLVCVFGLVAHWLACIWYSIGDYEVI
+>Kv11.1_Homo_sapiens_isoa/546-577 NP_000229.1 potassium voltage-gated channel subfamily H member 2 isoform a [Homo sapiens]
+--GAAVLFLLMCTFALIAHWLACIWYAIGNMEQP
+>Kv11.1_Strongylocentrotus_purpuratus/198-229 XP_030852568.1 potassium voltage-gated channel unc-103-like
+--APAVVCLLMCAFTLVSHWMACIWYAIGEQQRP
+>Kv11.1_Drosophila_melanogaster_isoC/461-492 NP_001286814.1 seizure, isoform C
+--GAAVLILLMATFILIAHWLACIWYAIGNAEKS
+>Kv11.1_Aplysia_californica_isoX1/562-593 XP_005107164.1 potassium voltage-gated channel subfamily H member 6 isoform X1
+--GAAVLLLLMATFALIAHWLACIWYAIGNMERN
+>Kv11.1_Caenorhabditis_elegans/329-360 NP_001368173.1 Potassium voltage-gated channel unc-103
+--GAAVLLLLMATFALIAHWLACIWYAIGSAELS
+>Kv11.1_Hydra_vulgaris/194-225 XP_002157210.3 PREDICTED: potassium voltage-gated channel subfamily H member 2-like
+--NLALLLLLVFGFALMAHWLACIWYAIGINESP
+>Kv11.1_Nematostella_vectensis/518-549 AHX24685.1 Erg1
+--GMAVLCLLMCSFALLAHWLACIWYAIGNLERQ
+>Kv11.1_Helobdella_robusta/457-488 XP_009012155.1 hypothetical protein HELRODRAFT_117121
+--GAAVLLLLMATFALIAHWLACVWYAIGNAERP
+>Kv11.1_Callorhinchus_milii/563-594 XP_007888033.1 PREDICTED: potassium voltage-gated channel subfamily H member 7
+--GAAVLMLLMCIFALIAHWLACIWYAIGNVERP
+>Kv11.1_Petromyzon_marinus_isoX2/588-619 XP_032801658.1 potassium voltage-gated channel subfamily H member 2-like isoform X2
+--GAAVLVLLMCTFALIAHWLACIWYAIGNMERP
+>Kv11.1_Ciona_intestinalis_isoX1/533-564 XP_026692366.1 potassium voltage-gated channel subfamily H member 6 isoform X1
+--GAAVLFLLMCTFVLIAHWLACIWYAIGNMERP
+>Kv11.1_Branchiostoma_floridae_isoX1/521-552 XP_035688589.1 potassium voltage-gated channel subfamily H member 6-like isoform X1
+--GAAVLLLLMATFALIAHWLACIWYAIGNVERP
+>Kv11.1_Schistosoma_mansoni/470-501 XP_018655373.1 putative voltage-gated potassium channel
+--GAAVLLLLMATFVLIAHWLACIWYAIGNVERQ
+>Kv11.1_Lottia_gigantea/390-421 XP_009061269.1 hypothetical protein LOTGIDRAFT_126829
+--GAAVLLLSMATFALIAHWLACIWYAIGNVERP
+>Kv11.1_Mus_musculus_iso1/548-579 NP_038597.2 potassium voltage-gated channel subfamily H member 2 isoform 1
+--GAAVLFLLMCTFALIAHWLACIWYAIGNMEQP
+>Kv11.1_Pogona_vitticeps/546-575 XP_020655898.1 potassium voltage-gated channel subfamily H member 2
+--GAAVLFLLMCTFALIAHWLACIWYAIGNME--
+>Kv11.1_Alligator_mississippiensis/462-491 XP_019351032.1 PREDICTED: potassium voltage-gated channel subfamily H member 2, partial
+--GAAVLFLLMCTFALIAHWLACIWYAIGNVE--
+>Kv11.1_Gallus_gallus/547-576 XP_015136636.3 LOW QUALITY PROTEIN: potassium voltage-gated channel subfamily H member 2
+--GAAVLFLLMCTFALIAHWLACIWYAIGNVE--
+>Kv12.1_Homo_sapiens/352-383 NP_653234.2 potassium voltage-gated channel subfamily H member 8
+--STIVLTLLMSMFALLAHWMACIWYVIGKMERE
+>Kv12.1_Strongylocentrotus_purpuratus_isoX2/299-330 XP_030830580.1 potassium voltage-gated channel subfamily H member 8 isoform X2
+--SAIVLTFFMLAFALLAHWLACIWFVIGRMELS
+>Kv12.1_Drosophila_melanogaster_isoA/395-426 NP_477009.1 Eag-like K[+] channel, isoform A
+--TAMILTLLMFSFTLAAHWLACIWYVIAVKEYE
+>Kv12.1_Aplysia_californica_isoX2/370-401 XP_012936081.1 potassium voltage-gated channel subfamily H member 4 isoform X2
+--SVIVLAMLMCFFALLAHWLACVWYVIGKAELE
+>Kv12.1_Caenorhabditis_elegans/364-395 NP_001368562.1 Uncharacterized protein CELE_F16B3.1
+--GAATLLLLLCAYVIVAHWLACVWFWIGDSEVR
+>Kv12.1_Nematostella_vectensis_isoX1/373-404 XP_032218302.1 uncharacterized protein LOC5517959 isoform X1
+--STVLLTLLMLAFAMVAHWLACIWYVIGLEEVS
+>Kv12.1_Helobdella_robusta/355-386 XP_009013566.1 hypothetical protein HELRODRAFT_128997, partial
+--SFVVLTLLMAMFTVLAHWLACVWYFLGREELL
+>Kv12.1_Callorhinchus_milii/334-365 XP_007895827.1 PREDICTED: potassium voltage-gated channel subfamily H member 8
+--STIVLTLLMSMFALLAHWMACIWYVIGKIEME
+>Kv12.1_Petromyzon_marinus_isoX1/373-404 XP_032818464.1 potassium voltage-gated channel subfamily H member 8-like isoform X1
+--SAVVLTMLMSMFALLAHWMACIWFVIGCQEMK
+>Kv12.1_Ciona_intestinalis_isoX1/356-387 XP_009859607.1 potassium voltage-gated channel subfamily H member 8-like isoform X1
+--GMFVLTMLVVLFGLVAHWLACIWFSLGWNEFK
+>Kv12.1_Branchiostoma_floridae_isoX2/401-432 XP_035661277.1 potassium voltage-gated channel subfamily H member 8-like isoform X2
+--SALVLTLLMSFFGLLAHWLACIWYVIGREELK
+>Kv12.1_Schistosoma_mansoni/311-342 XP_018649331.1 LOW QUALITY PROTEIN: putative voltage-gated potassium channel
+--SVIVLGLLMFSFALVAHWCACIWYVIGLYEID
+>Kv12.1_Lottia_gigantea/325-356 XP_009048131.1 hypothetical protein LOTGIDRAFT_139826, partial
+--SILVVTLLMSMFALGAHWLACIWYAIGQSELE
+>Kv12.1_Mus_musculus_isoX1/353-384 XP_036016335.1 potassium voltage-gated channel subfamily H member 8 isoform X1
+--STIVLTLLMSMFALLAHWMACIWYVIGKMERE
+>Kv12.1_Pogona_vitticeps/352-383 XP_020662997.1 potassium voltage-gated channel subfamily H member 8
+--STIVLTLLMSMFALLAHWMACIWYVIGKKEMD
+>Kv12.1_Alligator_mississippiensis/352-383 XP_019353285.1 PREDICTED: potassium voltage-gated channel subfamily H member 8
+--STIVLTLLMSMFALLAHWMACLWYVIGKREME
+>Kv12.1_Gallus_gallus_isoX1/352-383 XP_040520526.1 potassium voltage-gated channel subfamily H member 8 isoform X1
+--STIVLTLLMSMFALLAHWMACIWYVIGKREME
+>hHCN1_struct_open_6UQF/292-323 |Chains A, B, C, D|Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1|Homo sapiens (9606)
+ASAVVRIFNLIGMMLLLCHWDGCLQFLVPLLQ--
+>hHCN1_struct_closed_5U6O/292-323 |Chains A, B, C, D|Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1|Homo sapiens (9606)
+ASAVVRIFNLIGMMLLLCHWDGCLQFLVPLLQ--
+>HCN4_Homo_sapiens/412-443 NP_005468.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+ASAVVRIVNLIGMMLLLCHWDGCLQFLVPMLQ--
+>HCN4_Strongylocentrotus_purpuratus/362-393 NP_999729.1 hyperpolarization-activated (Ih) channel
+ANAVIRICNLVCMMLLIGHWNGCLQYLVPMLQ--
+>HCN4_Drosophila_melanogaster_isoE/941-972 NP_001033948.1 I[[h]] channel, isoform E
+ASVFMRIFNLICMMLLIGHWSGCLQFLVPMLQ--
+>HCN4_Aplysia_californica/220-251 NP_001191636.1 hyperpolarizaion-activated cyclic nucleotide-gated cation channel
+AGKFMRIFNLICLMFLLGHWNGCLQFLVPLIQ--
+>HCN1_Hydra_vulgaris/298-329 XP_012559677.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1-like
+AVGFLRYIKLIGMMLLVAHWNCCLHFLVPMLQ--
+>HCN2_Nematostella_vectensis/368-399 XP_001626416.2 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+TRSVIRFINLVSIILLIAHWNGCLQFLVPYLQ--
+>HCN4_Helobdella_robusta/291-322 XP_009011849.1 hypothetical protein HELRODRAFT_72757
+AEKFMRIFNLVSLMLLIGHWNGCLQWLVPMLQ--
+>HCN4_Salpingoeca_rosetta/244-275 XP_004991538.1 hyperpolarization-activated ion channel protein
+SAAWLRMSKLVTMMLLMAHWSGCLQFLAVQLA--
+>HCN4_Callorhinchus_milii/210-241 XP_007908262.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+ASAVVRIVNLIGMMLLLCHWDGCLQFLVPMLQ--
+>HCN4_Petromyzon_marinus/417-448 XP_032806347.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1-like
+ASAVVRIVNLIAMMLLLCHWDGCLQFLVPMLQ--
+>HCN4_Ciona_intestinalis_isoX1/214-245 XP_004226550.2 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3-like isoform X1
+AVAAVRIFNLVCLMLLIGHWNGCLQFLIPMLH--
+>HCN4_Branchiostoma_floridae_isoX1/367-398 XP_035667373.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2-like isoform X1
+ASAVIRIFNLICMMLLIGHWNGCLQFLVPMLQ--
+>HCN4_Priapulus_caudatus/199-230 XP_014679893.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2-like
+ANIFVRIFNLISMMLLIGHWSGCLQFLVPMLQ--
+>HCN4_Schistosoma_mansoni/799-830 XP_018647037.1 hypothetical protein Smp_212410
+ASKFMGIFNLVLLMLLLGHWNACLQYLIPMLM--
+>HCN4_Lottia_gigantea/277-308 XP_009054816.1 hypothetical protein LOTGIDRAFT_118006, partial
+AGKFMRIFNLICLMFLLGHWNGCLQFLIPMLQ--
+>HCN4_Mus_musculus/412-443 NP_001074661.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+ASAVVRIVNLIGMMLLLCHWDGCLQFLVPMLQ--
+>HCN4_Pogona_vitticeps/144-175 XP_020659343.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+ASAVVRIVNLIGMMLLLCHWDGCLQFLVPMLQ--
+>HCN4_Alligator_mississippiensis_isoX2/199-230 XP_014459956.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 isoform X2
+ASAVVRIVNLIGMMLLLCHWDGCLQFLVPMLQ--
+>HCN4_Gallus_gallus_isoX1/384-415 XP_040536079.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 isoform X1
+ASAVVRIVNLIGMMLLLCHWDGCLQFLVPMLQ--
+>hCNGA1_struct_7LFY/164-196 |Chains A, B, C, D|cGMP-gated cation channel alpha-1|Homo sapiens (9606)
+YPNIFRISNLVMYIVIIIHWNACVFYSISKAIG-
+>CNGA3_Homo_sapiens/269-301 NP_005131.1 cyclic nucleotide-gated olfactory channel
+YPNIFRISNLVLYILVIIHWNACIYYAISKSIG-
+>CNGA3_Strongylocentrotus_purpuratus/275-307 XP_784539.3 cyclic nucleotide-gated cation channel alpha-3
+YPNIVRVVNLIIYIIVIIHWNACIYFSISKEIG-
+>CNGA3_Drosophila_melanogaster_isoB/420-452 NP_001188960.1 cyclic nucleotide-gated ion channel subunit A, isoform B
+YPNAFRICKVVLAILVLIHWNACMYFAISYEIG-
+>CNGA3_Aplysia_californica_isoX1/273-305 XP_005093850.1 cyclic nucleotide-gated cation channel alpha-3 isoform X1
+FTNMFRILHLVLYILIIIHWNACIYFAISSAIG-
+>CNGA3_Caenorhabditis_elegans/308-340 pdb|5H3O|A Chain A, Cyclic nucleotide-gated cation channel
+MPNAFRVVVVVWYIVIIIHWNACLYFWISEWIG-
+>CNGA3_Hydra_vulgaris_isoX1/57-89 XP_012555740.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3-like isoform X1
+FPNLVRGTFWLNMMFLVLHWNSCFYYIISKSEG-
+>CNGA3_Nematostella_vectensis_isoX1/318-350 XP_032231125.1 cyclic nucleotide-gated cation channel alpha-3 isoform X1
+FPNVVRLASLVQFILLIIHWNACIYFIVSREIG-
+>CNGA3_Amphimedon_queenslandica/309-341 XP_003385808.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3-like
+YPNVLRIINLLMYLSLFIHWNACFYFLISKGIG-
+>CNGA3_Helobdella_robusta/187-219 XP_009021284.1 hypothetical protein HELRODRAFT_175626
+SPYAFRATQLIMYILLSLHWNACFYYQVSEWIG-
+>CNGA3_Salpingoeca_rosetta/1618-1651 XP_004992545.1 uncharacterized protein PTSG_07128
+DVGAVRKFKFMCLALLALHVVACSWYLIGCFDTG
+>CNGA3_Callorhinchus_milii_isoX1/284-316 XP_007889307.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3 isoform X1
+YPNIFRIGILVLYILIIIHWNGCIFYAISKMIG-
+>CNGA3_Petromyzon_marinus/387-419 XP_032836778.1 cyclic nucleotide-gated cation channel alpha-3-like
+YPNVFRIANLVLYIVVIIHWNACVYFAISRAVG-
+>CNGA3_Ciona_intestinalis_isoX1/282-314 XP_002124361.1 cyclic nucleotide-gated channel rod photoreceptor subunit alpha-like isoform X1
+YPNLFRISILVFYILIIIHWNACIFYAISRAIG-
+>CNGA3_Branchiostoma_floridae_isoX1/390-422 XP_035681348.1 cyclic nucleotide-gated cation channel alpha-3-like isoform X1
+FPNLFRIINLVLYIFIIIHWNACFYFAISNSLG-
+>CNGA3_Priapulus_caudatus/308-340 XP_014676958.1 PREDICTED: cyclic nucleotide-gated olfactory channel-like
+YPNFVRITNLVLYILVIIHWNACIYYAFSAYVG-
+>CNGA3_Schistosoma_mansoni/232-264 XP_018650675.1 putative cyclic-nucleotide-gated cation channel [Schistosoma mansoni]
+RPNLFRISMLTTYILVLIHWNACIYFGFSRASG-
+>CNGA3_Lottia_gigantea/154-186 XP_009047376.1 hypothetical protein LOTGIDRAFT_111466
+FTNMFRILHLVLYILIIIHWNACIYYAISGAIG-
+>CNGA3_Mus_musculus_iso1/276-308 NP_001268939.1 cyclic nucleotide-gated cation channel alpha-3 isoform 1
+YPNVFRIGNLVLYTLIIIHWNACIYFAISKFIG-
+>CNGA3_Pogona_vitticeps/347-379 XP_020665211.1 cyclic nucleotide-gated cation channel alpha-3
+YPNMFRIGNLVLYILIIIHWNACIFFAISKQIG-
+>CNGA3_Alligator_mississippiensis/327-359 XP_006272154.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3
+YPNIFRIGNLVLYILIIIHWNACIYFAISKMIG-
+>CNG3_Gallus_gallus/339-371 NP_990552.1 cyclic nucleotide-gated channel cone photoreceptor subunit alpha
+YPNMFRIGNLVLYILIIIHWNACIYFAISKVIG-
+>XP_063691681.1/223-253 calcium-activated potassium channel slowpoke-like isoform X18 [Bolinopsis microptera]
+RKSIVQLLVLMLDF--VSVWLFAAGFVHLVENS-
+>Mlei/384-416 EAG1 Li 2015
+KNGPVSLILIIVYFIMLGHLIACGWFWLGRSEF-
+>Mlei/411-443 EAG2 Li 2015
+SSGFSSLIFMMAIFVVFAHFISCGWFAIGKHNL-
+>XP_063683221.1/510-542 cyclic nucleotide-gated cation channel alpha-3-like isoform X2 [Bolinopsis microptera]
+VPTLWRIVTLFTIMLMVMHWNACLYFFVSTTVI-
+>XP_063686149.1/417-448 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3-like isoform X1 [Bolinopsis microptera]
+SPLVIKILQLLCFFFMIAHWSACTQFFVVYVR--

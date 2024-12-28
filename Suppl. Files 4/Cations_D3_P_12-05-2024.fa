@@ -1,0 +1,132 @@
+>Nalcn_6XIW_1|Chain/1100-1128 A|Sodium leak channel non-selective protein|Homo sapiens (9606)
+-------NVGNAMLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Homo_sapiens_isoX5/1148-1176
+-------NVGNAMLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Strongylocentrotus_purpuratus_isoX3/1105-1133
+-------NLGNALLALFEVLSLE---GWLEVRDIIIN-QT
+>Nalcn_Drosophila_melanogaster_isoG/1427-1455
+-------NIGDAMLTLFEVLSFK---GWLDVRDVLIK-AV
+>Nalcn_Aplysia_californica/968-996
+-------NIGNAMLALFEVLSLE---GWLEVRDVIIA-RV
+>Nalcn_Caenorhabditis_elegans/1149-1177
+-------HVGNAMLALFETLSFK---GWNVIRDILWS-RH
+>Nalcn_Amphimedon_queenslandica/1152-1181
+-------NVLFAFITLFELLTLE---GWIEVRDMFRDHRS
+>Nalcn_Helobdella_robusta/1031-1059
+-------NIGNAMQTLFEVLSLE---GWLEVRDVIIE-RV
+>Nalcn_Callorhinchus_milii/1098-1126
+-------NVGSALLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Petromyzon_marinus/1241-1269
+-------NVGSAMLTLFEVLSLK---GWVEVRDVIIQ-RV
+>Nalcn_Ciona_intestinalis/1116-1144
+-------TIGSATLALFEVLSLK---GWIEVRDILVE-RM
+>Nalcn_Branchiostoma_floridae/1045-1073
+-------NIANAMLALFEVLSLE---GWLEVRDIMVK-QV
+>Nalcn_Priapulus_caudatus/1087-1122
+PENFNFDTLGSAMLALFEILSFK---GWLDIRDVIIQ-RL
+>Nalcn_Schistosoma_mansoni/1188-1216
+-------NIGNAILALFEVLSLE---GWVEIRDVIKE-RI
+>Nalcn_Mus_musculus_isoX4/1116-1144
+-------NVGNAMLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Pogona_vitticeps/1097-1125
+-------NVGNAMLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Alligator_mississippiensis/1100-1128
+-------NVGNAMLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Gallus_gallus_isoX1/1100-1128
+-------NVGNAMLALFEVLSLK---GWVEVRDVIIH-RV
+>Nalcn_Nematostella_vectensis_XP_001637237.3:36-1613/1075-1103 sodium leak channel NALCN [Nematostella vectensis]
+-------DVFQAFLALFEALSLE---GWLEIRDTIDY-AV
+>Nalcn_Lottia_gigantea_XP_009049023.1:1-331/930-958 hypothetical protein LOTGIDRAFT_141037, partial [Lottia gigantea]
+-------NIGNAMLALFEVLSLE---GWLEVRDVIID-RV
+>Nalcn_Hydra_vulgaris_XP_047127519.1:122-1684/1067-1095 sodium leak channel NALCN [Hydra vulgaris]
+-------NLGKAFLALLELLSLE---GWTDVRDTIKD-QT
+>hHCN1_struct_open_6UQF/340-364 |Chains A, B, C, D|Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1|Homo sapiens (9606)
+------SWGKQYSYALFKAMSHMLCIGYGAQ---------
+>hHCN1_struct_closed_5U6O/340-364 |Chains A, B, C, D|Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1|Homo sapiens (9606)
+------SWGKQYSYALFKAMSHMLCIGYGAQ---------
+>HCN4_Homo_sapiens/460-484 NP_005468.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+------SWGKQYSYALFKAMSHMLCIGYGRQ---------
+>HCN4_Strongylocentrotus_purpuratus/410-434 NP_999729.1 hyperpolarization-activated (Ih) channel
+------HWWEQYTWALFKALSHMLCIGYGKF---------
+>HCN4_Drosophila_melanogaster_isoE/989-1013 NP_001033948.1 I[[h]] channel, isoform E
+------YWLEQYSWALFKAMSHMLCIGYGRF---------
+>HCN4_Aplysia_californica/268-292 NP_001191636.1 hyperpolarizaion-activated cyclic nucleotide-gated cation channel
+------HWAEQYTWALFKALSHMLCIGYGRF---------
+>HCN1_Hydra_vulgaris/346-370 XP_012559677.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1-like
+------PWYIQYGWALFATLSHMLSSGYGRS---------
+>HCN2_Nematostella_vectensis/416-440 XP_001626416.2 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2
+------DWWEQYCWSLFKAMSHMLCIGYGRY---------
+>HCN4_Helobdella_robusta/339-363 XP_009011849.1 hypothetical protein HELRODRAFT_72757
+------DWSEQYTWALFKALSHMLCIGYGRY---------
+>HCN4_Salpingoeca_rosetta/292-316 XP_004991538.1 hyperpolarization-activated ion channel protein
+------PVSAQYTWALFNALSHMLCIGYGKF---------
+>HCN4_Callorhinchus_milii/258-282 XP_007908262.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+------SWGRQYSYALFKAMSHMLCIGYGQQ---------
+>HCN4_Petromyzon_marinus/465-489 XP_032806347.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1-like
+------SWGKQYSYALFKAMSHMLCIGYGQR---------
+>HCN4_Ciona_intestinalis_isoX1/262-286 XP_004226550.2 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3-like isoform X1
+------PWAEQYSWSMFKAMSHMLCIGYGQQ---------
+>HCN4_Branchiostoma_floridae_isoX1/415-439 XP_035667373.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2-like isoform X1
+------HWATQYTWALFKAMSHMLCIGYGKR---------
+>HCN4_Priapulus_caudatus/247-271 XP_014679893.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2-like
+------NWAEQYTWALFKAMSHMLCIGYGRF---------
+>HCN4_Schistosoma_mansoni/847-871 XP_018647037.1 hypothetical protein Smp_212410
+------DWFQQYTWALFKAMSHMLSIGYGRF---------
+>HCN4_Lottia_gigantea/325-349 XP_009054816.1 hypothetical protein LOTGIDRAFT_118006, partial
+------HWAEQYTWSLFKALSHMLCIGYGRF---------
+>HCN4_Mus_musculus/460-484 NP_001074661.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+------SWGKQYSYALFKAMSHMLCIGYGRQ---------
+>HCN4_Pogona_vitticeps/192-216 XP_020659343.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4
+------SWGKQYSYALFKAMSHMLCIGYGQQ---------
+>HCN4_Alligator_mississippiensis_isoX2/247-271 XP_014459956.1 PREDICTED: potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 isoform X2
+------SWGKQYSYALFKAMSHMLCIGYGQQ---------
+>HCN4_Gallus_gallus_isoX1/432-456 XP_040536079.1 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4 isoform X1
+------SWGKQYSYALFKAMSHMLCIGYGQQ---------
+>hCNGA1_struct_7LFY/214-238 |Chains A, B, C, D|cGMP-gated cation channel alpha-1|Homo sapiens (9606)
+------RLARKYVYSLYWSTLTLTTIGETPP---------
+>CNGA3_Homo_sapiens/319-343 NP_005131.1 cyclic nucleotide-gated olfactory channel
+------YLAREYIYCLYWSTLTLTTIGETPP---------
+>CNGA3_Strongylocentrotus_purpuratus/333-357 XP_784539.3 cyclic nucleotide-gated cation channel alpha-3
+------SLTRRYIYSLYWSTLTLTTIGETPK---------
+>CNGA3_Drosophila_melanogaster_isoB/469-493 NP_001188960.1 cyclic nucleotide-gated ion channel subunit A, isoform B
+------TLQRQYIYSFYWSTLTLTTIGETPT---------
+>CNGA3_Aplysia_californica_isoX1/322-346 XP_005093850.1 cyclic nucleotide-gated cation channel alpha-3 isoform X1
+------ELSRKYIYSFYWSTLTLTTIGETPQ---------
+>CNGA3_Caenorhabditis_elegans/363-387 pdb|5H3O|A Chain A, Cyclic nucleotide-gated cation channel
+------TLLRRYVYSFYWSTLILTTIGEVPS---------
+>CNGA3_Hydra_vulgaris_isoX1/106-130 XP_012555740.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3-like isoform X1
+------SLLHRYIKCMYWSTLVLTNIGESSP---------
+>CNGA3_Nematostella_vectensis_isoX1/372-396 XP_032231125.1 cyclic nucleotide-gated cation channel alpha-3 isoform X1
+------TISRMYIYSFYWSTLTLTTIGEVPP---------
+>CNGA3_Amphimedon_queenslandica/359-383 XP_003385808.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3-like
+------SLSRQYLFSLYWSTLTLTTIGELPG---------
+>CNGA3_Helobdella_robusta/244-268 XP_009021284.1 hypothetical protein HELRODRAFT_175626
+------SLLFAYVFSFYWSLLTITAMGDVSH---------
+>CNGA3_Salpingoeca_rosetta/1667-1691 XP_004992545.1 uncharacterized protein PTSG_07128
+------SITDAYATSLYWAAATLTSVGYGDV---------
+>CNGA3_Callorhinchus_milii_isoX1/334-358 XP_007889307.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3 isoform X1
+------RLSRKYIYCLYWSTLTLTTIGETPP---------
+>CNGA3_Petromyzon_marinus/437-461 XP_032836778.1 cyclic nucleotide-gated cation channel alpha-3-like
+------RLARKYIYSLYWSTLTLTTIGETPP---------
+>CNGA3_Ciona_intestinalis_isoX1/332-356 XP_002124361.1 cyclic nucleotide-gated channel rod photoreceptor subunit alpha-like isoform X1
+------TLSRKYVYSLYWSTLTLTTIGETPM---------
+>CNGA3_Branchiostoma_floridae_isoX1/440-464 XP_035681348.1 cyclic nucleotide-gated cation channel alpha-3-like isoform X1
+------TLSRKYIYSLYWSTLTLTTIGETPT---------
+>CNGA3_Priapulus_caudatus/359-383 XP_014676958.1 PREDICTED: cyclic nucleotide-gated olfactory channel-like
+------TLTRKYIFCFYWSTLTLTTIGETPP---------
+>CNGA3_Schistosoma_mansoni/293-317 XP_018650675.1 putative cyclic-nucleotide-gated cation channel [Schistosoma mansoni]
+------RLFSQYVYSFYWSTLILTTIGETPK---------
+>CNGA3_Lottia_gigantea/204-228 XP_009047376.1 hypothetical protein LOTGIDRAFT_111466
+------PLTRKYIYSFYWSTLTLTTIGETPQ---------
+>CNGA3_Mus_musculus_iso1/326-350 NP_001268939.1 cyclic nucleotide-gated cation channel alpha-3 isoform 1
+------RLSRKYIYSLYWSTLTLTTIGETPP---------
+>CNGA3_Pogona_vitticeps/397-421 XP_020665211.1 cyclic nucleotide-gated cation channel alpha-3
+------RLSRKYIYSLYWSTLTLTTIGETPP---------
+>CNGA3_Alligator_mississippiensis/377-401 XP_006272154.1 PREDICTED: cyclic nucleotide-gated cation channel alpha-3
+------RLSRKYIYSLYWSTLTLTTIGETPP---------
+>CNG3_Gallus_gallus/389-413 NP_990552.1 cyclic nucleotide-gated channel cone photoreceptor subunit alpha
+------RLSRKYIYSLYWSTLTLTTIGETPP---------
+>XP_063686149.1/465-489 potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3-like isoform X1 [Bolinopsis microptera]
+------AWTEQYIWAIFRSLSHMITIGYGHE---------
+>XP_063683221.1/572-595 cyclic nucleotide-gated cation channel alpha-3-like isoform X2 [Bolinopsis microptera]
+------STAMKYAVSLYWSTQTMTTIGEME----------
